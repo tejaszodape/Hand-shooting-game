@@ -4,7 +4,16 @@ An interactive real-time browser-based shooting game powered by **MediaPipe Hand
 
 The player controls a crosshair using their index finger and shoots bouncing balls using a custom hand gesture. The game runs entirely in the browser with real-time AI inference.
 
+
 ---
+![WhatsApp Image 2026-02-23 at 16 30 43](https://github.com/user-attachments/assets/d46397d6-8d84-43a8-a97e-29bbfa9bfc11)
+
+![WhatsApp Image 2026-02-23 at 16 30 43 (1)](https://github.com/user-attachments/assets/26ca2d41-f4da-4c79-988a-68efc9237c22)
+
+
+![WhatsApp Image 2026-02-23 at 16 29 31](https://github.com/user-attachments/assets/f0b70f1c-86b1-4931-b979-74a8106db87b)
+
+
 
 ## 🚀 Features
 
