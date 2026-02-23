@@ -24,7 +24,6 @@ The player controls a crosshair using their index finger and shoots bouncing bal
 - 📊 Real-time scoring system  
 - 🔴 Visual shooting feedback (crosshair + color change)  
 - 🧠 AI-powered gesture recognition logic  
-- 🌐 Browser-based webcam streaming via WebRTC  
 
 
 ---
@@ -70,6 +69,6 @@ This avoids simple heuristics and instead uses geometric reasoning in 3D space.
 ```bash
 git clone https://github.com/yourusername/hand-gun-shooting-game.git
 cd hand-gun-shooting-game
-
+### use python 3.11 ## 
 pip install -r requirements.txt
 streamlit run app.py
